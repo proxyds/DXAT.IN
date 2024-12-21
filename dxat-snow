@@ -6,8 +6,8 @@
     <title>xatframe Dark</title>
     <style>
         body {
-            background-color: #D76d67;
-            background-image: url(images/dxat-bg.png);
+            background-color: #1b824a;
+            background-image: url(images/xat-bg.png);
             position: relative;
             width: 100%;
             height: 100vh;
@@ -25,10 +25,10 @@
             top: 0;
             left: calc(50% + 4px);
             transform: translateX(-50%);
-            border: 1px solid #D76d67;
+            border: 1px solid #1b824a;
             border-top: 0;
             border-bottom: 0;
-            box-shadow: 0 0 10px 0 #D76d67, 0 0 60px rgba(0, 0, 0, 0.5);
+            box-shadow: 0 0 10px 0 #1b824a, 0 0 60px rgba(0, 0, 0, 0.5);
             z-index: 1;
         }
 
